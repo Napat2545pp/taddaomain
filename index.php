@@ -80,7 +80,7 @@
                 <p class="regular-text" data-aos="fade-down">จนไปถึงบริการจัดร้านจนสามารถเปิดขายได้</p>
             </div>
         </div>
-        <div class="image-text-container background-fade3">
+        <div class="image-text-container background-fade2">
             <div class="image-container" data-aos="fade-down">
                 <img src="img/2.jpg" alt="Description of image" class="responsive-image">
             </div>
