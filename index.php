@@ -14,6 +14,7 @@
 
 </head>
 <body>
+    <!--
     <div class="language-switcher">
         <select id="language-select">
             <option value="th">ไทย</option>
@@ -21,13 +22,14 @@
             <option value="km">ភាសាខ្មែរ</option> 
         </select>
     </div>
+    -->
     <div class="container">
         <!-- เนื้อหาหลัก -->
-        <p class="sub-text" data-lang-km="យើងខ្ញុំជាអ្នកផ្តល់សេវាកម្មបើកហាង អ្វីៗគឺ 20 បាត។" data-lang-en="We are a service provider for opening a shop, everything is 20 baht." data-lang-th="เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท" data-aos="fade-down">เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
-        <p class="sub-text" data-lang-km="លេខ១នៅប្រទេសថៃ" data-lang-en="Number 1 in Thailand" data-lang-th="อันดับ 1 ของประเทศไทย" data-aos="fade-down">อันดับ 1 ของประเทศไทย</p>
+        <p class="sub-text"  data-aos="fade-down">เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
+        <p class="sub-text"  data-aos="fade-down">อันดับ 1 ของประเทศไทย</p>
         <br><br>
-        <p class="sub-text" data-lang-km="សាខាជាង 600 ត្រូវបានបើក។" data-lang-en="More than 600 branches have been opened" data-lang-th="เปิดมาแล้วกว่า 600 สาขา" data-aos="fade-down">“ เปิดมาแล้วกว่า 600 สาขา “</p>
-        <p class="sub-text" data-lang-km="ទាំងក្នុងនិងក្រៅប្រទេស" data-lang-en="both domestically and abroad" data-lang-th="ทั้งในประเทศและต่างประเทศ" data-aos="fade-down">ทั้งในประเทศและต่างประเทศ</p>
+        <p class="sub-text"  data-aos="fade-down">“ เปิดมาแล้วกว่า 600 สาขา “</p>
+        <p class="sub-text"  data-aos="fade-down">ทั้งในประเทศและต่างประเทศ</p>
         <br>
         <div class="grid">
             <img src="img/1.jpg" alt="Image" data-aos="fade-down">
@@ -49,8 +51,8 @@
         </div><br>
         <div class="background-fade" data-aos="fade-up">
             <br>
-            <p class="sub-text red-rounded-box" data-aos="fade-up" data-lang-km="យើងគឺជាអ្នកផ្តល់សេវាកម្មបើកហាង 20 បាត" data-lang-en="Taddao 20 baht is not a 'franchise'" data-lang-th="ทัดดาว20บาท ไม่ใช่ “แฟรนไชส์”">ทัดดาว20บาท ไม่ใช่ “แฟรนไชส์”</p><br><br>
-            <p class="sub-text" data-aos="fade-down" data-lang-km="យើងគឺជាអ្នកផ្តល់សេវាកម្មបើកហាង 20 បាត" data-lang-en="We are a 20 baht store provider" data-lang-th="เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท">เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
+            <p class="sub-text red-rounded-box" data-aos="fade-up" >ทัดดาว20บาท ไม่ใช่ “แฟรนไชส์”</p><br><br>
+            <p class="sub-text" data-aos="fade-down" >เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
             <p class="regular-text1" data-aos="fade-up">แบบไม่มีสัญญา ไม่เก็บค่าส่วนแบ่งการขาย</p><br>
             <div class="watermark">ทัดดาว</div>
             <p class="regular-text1" data-aos="fade-up">ผู้ลงทุนสามารถออกแบบร้านเป็นแบรนด์ของคุณได้</p>
@@ -70,12 +72,12 @@
                 <img src="img/1.jpg" alt="Description of image" class="responsive-image">
             </div>
             <div class="text-container">
-                <p class="main-text" data-aos="fade-down" data-lang-en="" data-lang-th="บริการครบจบที่เดียวและได้ร้านค้าที่มาตรฐาน">บริการครบจบที่เดียวและได้ร้านค้าที่มาตรฐาน</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="ตั้งแต่ให้บริการประเมินทำเล ลดความเสี่ยงเจ๊งก่อน">ตั้งแต่ให้บริการประเมินทำเล ลดความเสี่ยงเจ๊งก่อน</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="เปิดกิจการ ไปจนถึงคัดเลือกสินค้าที่ตรงกับ">เปิดกิจการ ไปจนถึงคัดเลือกสินค้าที่ตรงกับ</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="กลุ่มเป้าหมาย ออกแบบเลย์เอ้าท์ให้น่าดึงดูดโดย">กลุ่มเป้าหมาย ออกแบบเลย์เอ้าท์ให้น่าดึงดูดโดย</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="รูปแบบร้านนั้นสามารถใช้เป็นแบรนด์ของคุณเองได้">รูปแบบร้านนั้นสามารถใช้เป็นแบรนด์ของคุณเองได้</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="จนไปถึงบริการจัดร้านจนสามารถเปิดขายได้">จนไปถึงบริการจัดร้านจนสามารถเปิดขายได้</p>
+                <p class="main-text" data-aos="fade-down" >บริการครบจบที่เดียวและได้ร้านค้าที่มาตรฐาน</p>
+                <p class="regular-text" data-aos="fade-down">ตั้งแต่ให้บริการประเมินทำเล ลดความเสี่ยงเจ๊งก่อน</p>
+                <p class="regular-text" data-aos="fade-down">เปิดกิจการ ไปจนถึงคัดเลือกสินค้าที่ตรงกับ</p>
+                <p class="regular-text" data-aos="fade-down">กลุ่มเป้าหมาย ออกแบบเลย์เอ้าท์ให้น่าดึงดูดโดย</p>
+                <p class="regular-text" data-aos="fade-down">รูปแบบร้านนั้นสามารถใช้เป็นแบรนด์ของคุณเองได้</p>
+                <p class="regular-text" data-aos="fade-down">จนไปถึงบริการจัดร้านจนสามารถเปิดขายได้</p>
             </div>
         </div>
         <div class="image-text-container background-fade3">
