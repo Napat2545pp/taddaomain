@@ -1,0 +1,134 @@
+body {
+    font-family: 'Prompt', sans-serif;
+}
+
+.product-form-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.product-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* ระยะห่างระหว่างฟอร์ม */
+    justify-content: flex-start;
+}
+
+.product-item {
+    flex: 1 1 calc(16.66% - 20px); /* แสดงผล 6 ฟอร์มในแถว */
+    max-width: calc(16.66% - 20px); /* จำกัดขนาดสูงสุดของฟอร์ม */
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-width: 0; /* ปรับขนาดที่เล็กสุดของฟอร์ม */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* เพิ่มเงาให้ฟอร์ม */
+}
+
+.product-image {
+    width: 100%; /* ให้รูปภาพเต็มขนาดของฟอร์ม */
+    height: 150px; /* กำหนดความสูงของรูปภาพ */
+    object-fit: contain; /* ทำให้รูปภาพแสดงเต็มพื้นที่แต่ไม่ตัดรูป */
+    margin-bottom: 10px;
+    border-radius: 5px; /* มุมของรูปภาพจะกลม */
+    background-color: #ffffff; /* สีพื้นหลังของรูปภาพ */
+}
+
+
+.product-info {
+    flex-grow: 1;
+}
+
+.info-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.info-row p {
+    margin: 0 10px;
+}
+
+.product-actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.quantity-selector {
+    display: flex;
+    align-items: center;
+}
+
+.pagination {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.pagination a {
+    text-decoration: none;
+    padding: 8px 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #333;
+    margin: 0 5px;
+}
+
+.pagination a.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.pagination span {
+    margin: 0 5px;
+    color: #333;
+}
+
+.pagination span.disabled {
+    color: #ddd;
+}
+
+@media (max-width: 768px) {
+    .product-item {
+        flex: 1 1 calc(33.33% - 20px); /* แสดงผล 3 คอลัมน์ในหน้าจอขนาดกลาง */
+        max-width: calc(33.33% - 20px);
+    }
+
+    .info-row {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .info-row p {
+        margin-bottom: 10px;
+        margin-right: 0;
+    }
+
+    .product-image {
+        height: 120px; /* ลดความสูงของรูปภาพในหน้าจอขนาดกลาง */
+    }
+}
+
+@media (max-width: 480px) {
+    .product-item {
+        flex: 1 1 100%; /* แสดงผล 1 คอลัมน์ในหน้าจอขนาดเล็ก */
+        max-width: 100%;
+    }
+
+    .pagination a {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+
+    .product-image {
+        height: 100px; /* ลดความสูงของรูปภาพในหน้าจอขนาดเล็ก */
+    }
+}

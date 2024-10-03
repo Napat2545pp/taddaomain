@@ -1,0 +1,58 @@
+/* summary.css */
+body {
+    font-family: 'Prompt', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff2828;
+    color: #ffffff;
+    padding: 8px;
+    text-align: center;
+}
+
+.summary-container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.no-items {
+    text-align: center;
+    color: #6c757d;
+}
+
+.summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.summary-table th, .summary-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.summary-table th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+}
+
+.summary-item-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.summary-total {
+    text-align: right;
+    font-size: 1.25em;
+    font-weight: bold;
+    padding-top: 10px;
+}
