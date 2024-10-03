@@ -93,6 +93,18 @@
                 <p class="regular-text" data-aos="fade-down">ผู้ลงทุนไม่ต้องเสียเวลาทำข้อมูลรับเข้าอีกด้วย</p>
             </div>
         </div>
+        <div class="image-text-container background-fade3">
+            <div class="image-container" data-aos="fade-down">
+                <img src="img/2.jpg" alt="Description of image" class="responsive-image">
+            </div>
+            <div class="text-container">
+                <p class="main-text" data-aos="fade-down">ดูแลหลังการขาย ลดความเสี่ยงเจ๊ง!</p>
+                <p class="regular-text" data-aos="fade-down">หลังจากที่เปิดร้านไปแล้ว เรามีทีมเซลล์ให้บริการ</p>
+                <p class="regular-text" data-aos="fade-down">คอยเข้าไปช่วยเหลือเจ้าของร้านในการช่วยเช็ค</p>
+                <p class="regular-text" data-aos="fade-down">สต็อกสินค้า และตรวจสอบสินค้าที่ขายช้า ซึ่ง</p>
+                <p class="regular-text" data-aos="fade-down">สามารถเปลี่ยนเป็นสินค้าใหม่ได้ 100%</p>
+            </div>
+        </div>
         <div class="background-fade4" data-aos="fade-up">
             <div class="slider-container">
                 <div class="slider">
