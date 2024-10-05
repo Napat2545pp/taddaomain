@@ -14,20 +14,14 @@
 
 </head>
 <body>
-    <div class="language-switcher">
-        <select id="language-select">
-            <option value="th">ไทย</option>
-            <option value="en">English</option>
-            <option value="km">ភាសាខ្មែរ</option> 
-        </select>
-    </div>
+
     <div class="container">
         <!-- เนื้อหาหลัก -->
-        <p class="sub-text" data-lang-km="យើងខ្ញុំជាអ្នកផ្តល់សេវាកម្មបើកហាង អ្វីៗគឺ 20 បាត។" data-lang-en="We are a service provider for opening a shop, everything is 20 baht." data-lang-th="เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท" data-aos="fade-down">เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
-        <p class="sub-text" data-lang-km="លេខ១នៅប្រទេសថៃ" data-lang-en="Number 1 in Thailand" data-lang-th="อันดับ 1 ของประเทศไทย" data-aos="fade-down">อันดับ 1 ของประเทศไทย</p>
+        <p class="sub-text" data-aos="fade-down">เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
+        <p class="sub-text" data-aos="fade-down">อันดับ 1 ของประเทศไทย</p>
         <br><br>
-        <p class="sub-text" data-lang-km="សាខាជាង 600 ត្រូវបានបើក។" data-lang-en="More than 600 branches have been opened" data-lang-th="เปิดมาแล้วกว่า 600 สาขา" data-aos="fade-down">“ เปิดมาแล้วกว่า 600 สาขา “</p>
-        <p class="sub-text" data-lang-km="ទាំងក្នុងនិងក្រៅប្រទេស" data-lang-en="both domestically and abroad" data-lang-th="ทั้งในประเทศและต่างประเทศ" data-aos="fade-down">ทั้งในประเทศและต่างประเทศ</p>
+        <p class="sub-text" data-aos="fade-down">“ เปิดมาแล้วกว่า 600 สาขา “</p>
+        <p class="sub-text" data-aos="fade-down">ทั้งในประเทศและต่างประเทศ</p>
         <br>
         <div class="grid">
             <img src="img/1.jpg" alt="Image" data-aos="fade-down">
@@ -49,8 +43,8 @@
         </div><br>
         <div class="background-fade" data-aos="fade-up">
             <br>
-            <p class="sub-text red-rounded-box" data-aos="fade-up" data-lang-km="យើងគឺជាអ្នកផ្តល់សេវាកម្មបើកហាង 20 បាត" data-lang-en="Taddao 20 baht is not a 'franchise'" data-lang-th="ทัดดาว20บาท ไม่ใช่ “แฟรนไชส์”">ทัดดาว20บาท ไม่ใช่ “แฟรนไชส์”</p><br><br>
-            <p class="sub-text" data-aos="fade-down" data-lang-km="យើងគឺជាអ្នកផ្តល់សេវាកម្មបើកហាង 20 បាត" data-lang-en="We are a 20 baht store provider" data-lang-th="เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท">เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
+            <p class="sub-text red-rounded-box" data-aos="fade-up" >ทัดดาว20บาท ไม่ใช่ “แฟรนไชส์”</p><br><br>
+            <p class="sub-text" data-aos="fade-down" >เราคือผู้ให้บริการเปิดร้านทุกอย่าง 20 บาท</p>
             <p class="regular-text1" data-aos="fade-up">แบบไม่มีสัญญา ไม่เก็บค่าส่วนแบ่งการขาย</p><br>
             <div class="watermark">ทัดดาว</div>
             <p class="regular-text1" data-aos="fade-up">ผู้ลงทุนสามารถออกแบบร้านเป็นแบรนด์ของคุณได้</p>
@@ -70,12 +64,12 @@
                 <img src="img/1.jpg" alt="Description of image" class="responsive-image">
             </div>
             <div class="text-container">
-                <p class="main-text" data-aos="fade-down" data-lang-en="" data-lang-th="บริการครบจบที่เดียวและได้ร้านค้าที่มาตรฐาน">บริการครบจบที่เดียวและได้ร้านค้าที่มาตรฐาน</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="ตั้งแต่ให้บริการประเมินทำเล ลดความเสี่ยงเจ๊งก่อน">ตั้งแต่ให้บริการประเมินทำเล ลดความเสี่ยงเจ๊งก่อน</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="เปิดกิจการ ไปจนถึงคัดเลือกสินค้าที่ตรงกับ">เปิดกิจการ ไปจนถึงคัดเลือกสินค้าที่ตรงกับ</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="กลุ่มเป้าหมาย ออกแบบเลย์เอ้าท์ให้น่าดึงดูดโดย">กลุ่มเป้าหมาย ออกแบบเลย์เอ้าท์ให้น่าดึงดูดโดย</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="รูปแบบร้านนั้นสามารถใช้เป็นแบรนด์ของคุณเองได้">รูปแบบร้านนั้นสามารถใช้เป็นแบรนด์ของคุณเองได้</p>
-                <p class="regular-text" data-aos="fade-down" data-lang-en="" data-lang-th="จนไปถึงบริการจัดร้านจนสามารถเปิดขายได้">จนไปถึงบริการจัดร้านจนสามารถเปิดขายได้</p>
+                <p class="main-text" data-aos="fade-down">บริการครบจบที่เดียวและได้ร้านค้าที่มาตรฐาน</p>
+                <p class="regular-text" data-aos="fade-down">ตั้งแต่ให้บริการประเมินทำเล ลดความเสี่ยงเจ๊งก่อน</p>
+                <p class="regular-text" data-aos="fade-down">เปิดกิจการ ไปจนถึงคัดเลือกสินค้าที่ตรงกับ</p>
+                <p class="regular-text" data-aos="fade-down">กลุ่มเป้าหมาย ออกแบบเลย์เอ้าท์ให้น่าดึงดูดโดย</p>
+                <p class="regular-text" data-aos="fade-down">รูปแบบร้านนั้นสามารถใช้เป็นแบรนด์ของคุณเองได้</p>
+                <p class="regular-text" data-aos="fade-down">จนไปถึงบริการจัดร้านจนสามารถเปิดขายได้</p>
             </div>
         </div>
         <div class="image-text-container background-fade3">
@@ -91,7 +85,19 @@
                 <p class="regular-text" data-aos="fade-down">ผู้ลงทุนไม่ต้องเสียเวลาทำข้อมูลรับเข้าอีกด้วย</p>
             </div>
         </div>
-        <div class="background-fade4" data-aos="fade-up">
+        <div class="image-text-container background-fade4">
+            <div class="image-container" data-aos="fade-down">
+                <img src="img/2.jpg" alt="Description of image" class="responsive-image">
+            </div>
+            <div class="text-container">
+                <p class="main-text" data-aos="fade-down">ดูแลหลังการขาย ลดความเสี่ยงเจ๊ง!</p>
+                <p class="regular-text" data-aos="fade-down">หลังจากที่เปิดร้านไปแล้ว เรามีทีมเซลล์ให้บริการ</p>
+                <p class="regular-text" data-aos="fade-down">คอยเข้าไปช่วยเหลือเจ้าของร้านในการช่วยเช็ค</p>
+                <p class="regular-text" data-aos="fade-down">สต็อกสินค้า และตรวจสอบสินค้าที่ขายช้า ซึ่ง</p>
+                <p class="regular-text" data-aos="fade-down">สามารถเปลี่ยนเป็นสินค้าใหม่ได้ 100%</p>
+            </div>
+        </div>
+        <div class="background-fade2" data-aos="fade-up">
             <div class="slider-container">
                 <div class="slider">
                     <div class="slide"><img class="lazyloaded" data-src="img/3.jpg" alt="" src="img/3.jpg"></div>
@@ -106,146 +112,191 @@
         <div class="multi-slider-container">
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/S/red.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/S/green.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/S/white.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/S/blue.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/S/black.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/S/pink.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/S/orange.jpg" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/S/1.png" alt="Image" class="custom-size">
+                    <img src="img/FC/S/2.png" alt="Image" class="custom-size">
+                    <img src="img/FC/S/3.png" alt="Image" class="custom-size">
+                    <img src="img/FC/S/4.png" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/L/red.jpg" alt="Image">
+                    <img src="img/FC/L/green.jpg" alt="Image">
+                    <img src="img/FC/L/white.jpg" alt="Image">
+                    <img src="img/FC/L/blue.jpg" alt="Image">
+                    <img src="img/FC/L/black.jpg" alt="Image">
+                    <img src="img/FC/L/pink.jpg" alt="Image">
+                    <img src="img/FC/L/orange.jpg" alt="Image">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/L/1.png" alt="Image" class="custom-size">
+                    <img src="img/FC/L/2.png" alt="Image" class="custom-size">
+                    <img src="img/FC/L/3.png" alt="Image" class="custom-size">
+                    <img src="img/FC/L/4.png" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/SPro/red.jpg" alt="Image">
+                    <img src="img/FC/SPro/green.jpg" alt="Image">
+                    <img src="img/FC/SPro/white.jpg" alt="Image">
+                    <img src="img/FC/SPro/blue.jpg" alt="Image">
+                    <img src="img/FC/SPro/black.jpg" alt="Image">
+                    <img src="img/FC/SPro/pink.jpg" alt="Image">
+                    <img src="img/FC/SPro/orange.jpg" alt="Image">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/SPro/1.png" alt="Image" class="custom-size">
+                    <img src="img/FC/SPro/2.png" alt="Image" class="custom-size">
+                    <img src="img/FC/SPro/3.png" alt="Image" class="custom-size">
+                    <img src="img/FC/SPro/4.png" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/LPro/red.jpg" alt="Image">
+                    <img src="img/FC/LPro/green.jpg" alt="Image">
+                    <img src="img/FC/LPro/white.jpg" alt="Image">
+                    <img src="img/FC/LPro/blue.jpg" alt="Image">
+                    <img src="img/FC/LPro/black.jpg" alt="Image">
+                    <img src="img/FC/LPro/pink.jpg" alt="Image">
+                    <img src="img/FC/LPro/orange.jpg" alt="Image">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/LPro/1.png" alt="Image" class="custom-size">
+                    <img src="img/FC/LPro/2.png" alt="Image" class="custom-size">
+                    <img src="img/FC/LPro/3.png" alt="Image" class="custom-size">
+                    <img src="img/FC/LPro/4.png" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/M/red.jpg" alt="Image">
+                    <img src="img/FC/M/green.jpg" alt="Image">
+                    <img src="img/FC/M/white.jpg" alt="Image">
+                    <img src="img/FC/M/blue.jpg" alt="Image">
+                    <img src="img/FC/M/black.jpg" alt="Image">
+                    <img src="img/FC/M/pink.jpg" alt="Image">
+                    <img src="img/FC/M/orange.jpg" alt="Image">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/M/1.png" alt="Image" class="custom-size">
+                    <img src="img/FC/M/2.png" alt="Image" class="custom-size">
+                    <img src="img/FC/M/3.png" alt="Image" class="custom-size">
+                    <img src="img/FC/M/4.png" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/XL/red.jpg" alt="Image">
+                    <img src="img/FC/XL/green.jpg" alt="Image">
+                    <img src="img/FC/XL/white.jpg" alt="Image">
+                    <img src="img/FC/XL/blue.jpg" alt="Image">
+                    <img src="img/FC/XL/black.jpg" alt="Image">
+                    <img src="img/FC/XL/pink.jpg" alt="Image">
+                    <img src="img/FC/XL/orange.jpg" alt="Image">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/XL/1.png" alt="Image" class="custom-size">
+                    <img src="img/FC/XL/2.png" alt="Image" class="custom-size">
+                    <img src="img/FC/XL/3.png" alt="Image" class="custom-size">
+                    <img src="img/FC/XL/4.png" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/MPro/red.jpg" alt="Image">
+                    <img src="img/FC/MPro/green.jpg" alt="Image">
+                    <img src="img/FC/MPro/white.jpg" alt="Image">
+                    <img src="img/FC/MPro/blue.jpg" alt="Image">
+                    <img src="img/FC/MPro/black.jpg" alt="Image">
+                    <img src="img/FC/MPro/pink.jpg" alt="Image">
+                    <img src="img/FC/MPro/orange.jpg" alt="Image">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/MPro/1.png" alt="Image" class="custom-size">
+                    <img src="img/FC/MPro/2.png" alt="Image" class="custom-size">
+                    <img src="img/FC/MPro/3.png" alt="Image" class="custom-size">
+                    <img src="img/FC/MPro/4.png" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/FCD/1.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/FCD/2.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/FCD/3.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/FCD/4.jpg" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/2.jpg" alt="Image">
-                    <img src="img/1.jpg" alt="Image">
+                    <img src="img/FC/FCD/5.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/FCD/6.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/FCD/7.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/FCD/8.jpg" alt="Image" class="custom-size">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
         </div><br>
         <p class="sub-text red-rounded-box1" data-aos="fade-up">ตารางเปรียบเทียบแพ็คเกจ</p><br>
-        <p class="scroll-right-text">เลื่อนไปทางขวา</p>
-            <div class="promo-container" data-aos="fade-down">
-                <div class="promo-container">
-                    <div class="promo-left-image">
-                        <img src="img/Promotion/DetailPro.png" alt="Detail Image">
-                    </div>
-                    <div class="promo-right-images">
-                        <img src="img/Promotion/PackPro.png" alt="Pack Image">
-                    </div>
-                </div>
-            </div>
-        </div><br><br>
+        <!--<p class="scroll-right-text">เลื่อนไปทางขวา</p> -beta3-->
+        <div class="imagePro">
+            <img class="imagePro" src="img/Promotion/FULL.png" alt="Detail Image">
+        </div><br>
     </div>
         <div class="full-background">
             <div class="contentt">
@@ -269,6 +320,31 @@
                         </ul>
                     </div>
                 </div><br>
+
+                <div class="container2">
+                    <div class="image-container2">
+                        <img src="img/Chain.png" alt="Chain">
+                    </div>
+                    <div class="text-container2">
+                        <div class="text-box">ปรึกษาฟรีกับเจ้าของแบรนด์</div>
+                        <div class="text-box">
+                        <a href="tel:0926878777" class="phone-link">
+                            <img src="img/logo/phone.png" alt="Phone Icon" class="phone-icon">
+                            092-687-8777 คุณเชน
+                        </a>
+                    </div>
+                    <div class="text-box">
+                        <a href="tel:0953424390" class="phone-link">
+                            <img src="img/logo/phone.png" alt="Phone Icon" class="phone-icon">
+                            095-342-4390 คุณนุ่ม
+                        </a>
+                    </div>
+                    </div>
+                </div>
+                <br><br>
+
+
+                <!--
                 <p class="sub-text red-rounded-box1" data-aos="fade-up">บริการเสริม</p>
                 <h1 data-aos="fade-up">ใหม่! แพ็คเกจเปิดร้านโชว์ห่วย ( สมัยใหม่ )</h1>
                 <div class="feature-container" data-aos="fade-up">
@@ -303,6 +379,7 @@
                         </ul>
                     </div>
                 </div><br>
+                    -->
                 <div class="image-grid">
                     <div class="image-item" data-aos="fade-up">
                         <img src="img/D1.png" alt="Image 1">
@@ -622,18 +699,6 @@
         });
         slider.addEventListener('touchend', () => {
             isDragging = false;
-        });
-    </script>
-    <script>
-        document.getElementById('language-select').addEventListener('change', function() {
-            var selectedLang = this.value; // "en", "th", or "km"
-            var elements = document.querySelectorAll('[data-lang-en], [data-lang-th], [data-lang-km]');
-            elements.forEach(function(element) {
-                var text = element.getAttribute('data-lang-' + selectedLang);
-                if (text) {
-                    element.textContent = text;
-                }
-            });
         });
     </script>
 </body>
