@@ -107,8 +107,8 @@
                 <button class="prev-btn">Prev</button>
                 <button class="next-btn">Next</button>
             </div>
-        </div>
-        <p class="sub-text red-rounded-box1" data-aos="fade-up">แพ็คเกจเปิดร้านของเรา</p> 
+        </div><br>
+        <p class="sub-text red-rounded-box1" data-aos="fade-up">แพ็คเกจเปิดร้านของเรา</p><br> 
         <div class="multi-slider-container">
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
@@ -339,6 +339,9 @@
                             095-342-4390 คุณนุ่ม
                         </a>
                     </div>
+                    <div class="qr-container">
+                        <img src="img/logo/QR.jpg" alt="QR Code">
+                    </div>
                     </div>
                 </div>
                 <br><br>
@@ -419,7 +422,51 @@
                     </div>
                 </div>
             </div>
+        </div><br><br>
+        <a class="strange-class">“ ไม่มีเงินลงทุน ก็เป็นเจ้าของกิจการได้! “</a><br><br>
+        <div class="container3">
+            <img src="img/logo/logotaddao.png" alt="image 1">
+        <div class="x-sign">X</div>
+            <img src="img/logo/logosin.png" alt="image 2">
+        <div class = "text">กู้เงินลงทุนผ่านธนาคารออมสินได้แล้ววันนี้</div>
+        </div><br><br>
+        <p class="sub-text red-rounded-box1" data-aos="fade-up">ประเภทสินเชื่อ</p><br><br>
+        <center>
+        <div class="outer-container">
+            <div class="container4">
+                <img src="your-image-url.jpg" alt="Product Image">
+                <div class="text-area">
+                    <div class="header">
+                        <h2 style="margin: 0;">สินค้าเชื่อธุรกิจห้องแถว</h2>
+                        <div class="highlight">รู้ผลภายใน 30 วัน</div>
+                    </div>
+                    <p>เหมาะสำหรับเจ้าของกิจการ/ผู้ที่มีธุรกิจอยู่แล้ว</p>
+                    <p>วงเงินกู้ไม่เกิน 300,000 บาท ไม่ต้องใช้หลักทรัพย์</p>
+                    <p>วงเงินกู้ 300,000 บาทขึ้นไป ต้องมีหลักทรัพย์</p>
+                    <p>ดอกเบี้ยเริ่มต้น 7% ต่อปี (ลดต้นลดดอก)</p>
+                    <p>ผ่อนชำระได้สูงสุด 120 งวด (10ปี)</p>
+                </div>
+            </div>
+        </div><br><br>
+        <div class="outer-container">
+            <div class="container4">
+                <img src="your-image-url.jpg" alt="Product Image">
+                <div class="text-area">
+                    <div class="header">
+                        <h2 style="margin: 0;">สินค้าเชื่อธนาคารประชาชน</h2>
+                        <div class="highlight">รู้ผลภายใน 15 วัน</div>
+                    </div>
+                    <p>เหมาะสำหรับพนักงานประจำ</p>
+                    <p>วงเงินกู้ไม่เกิน 200,000 บาท</p>
+                    <p>ใช้บุคคลหรือหลักทรัพย์ในการค้ำประกัน</p>
+                    <p>ดอกเบี้ย เริ่มต้น 0.5% ต่อเดือน (คงที่)</p>
+                    <p>ผ่อนชำระได้สูงสุด 96 งวด (8ปี)</p>
+                </div>
+            </div>
         </div>
+        </center>
+
+
         <div class="youtube-container">
             <h2 class="youtube-heading" data-aos="fade-up">รีวิวความสำเร็จของทัดดาว</h2><br><br>
             <div class="youtube-row">
