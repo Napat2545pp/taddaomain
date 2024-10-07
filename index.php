@@ -112,53 +112,30 @@
         <div class="multi-slider-container">
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/FC/S/red.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/S/green.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/S/white.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/S/blue.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/S/black.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/S/pink.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/S/orange.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/S/red.png" alt="Image" >
+                    <img src="img/FC/S/green.jpg" alt="Image" >
+                    <img src="img/FC/S/white.jpg" alt="Image" >
+                    <img src="img/FC/S/blue.jpg" alt="Image" >
+                    <img src="img/FC/S/black.jpg" alt="Image" >
+                    <img src="img/FC/S/pink.jpg" alt="Image" >
+                    <img src="img/FC/S/orange.jpg" alt="Image" >
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/FC/S/1.png" alt="Image" class="custom-size">
-                    <img src="img/FC/S/2.png" alt="Image" class="custom-size">
-                    <img src="img/FC/S/3.png" alt="Image" class="custom-size">
-                    <img src="img/FC/S/4.png" alt="Image" class="custom-size">
+                    <img src="img/FC/S/1.png" alt="Image" >
+                    <img src="img/FC/S/2.png" alt="Image" >
+                    <img src="img/FC/S/3.png" alt="Image" >
+                    <img src="img/FC/S/4.png" alt="Image" >
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/FC/L/red.jpg" alt="Image">
-                    <img src="img/FC/L/green.jpg" alt="Image">
-                    <img src="img/FC/L/white.jpg" alt="Image">
-                    <img src="img/FC/L/blue.jpg" alt="Image">
-                    <img src="img/FC/L/black.jpg" alt="Image">
-                    <img src="img/FC/L/pink.jpg" alt="Image">
-                    <img src="img/FC/L/orange.jpg" alt="Image">
-                </div>
-                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
-                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
-            </div>
-            <div class="multi-slider" data-aos="fade-down">
-                <div class="multi-slide" >
-                    <img src="img/FC/L/1.png" alt="Image" class="custom-size">
-                    <img src="img/FC/L/2.png" alt="Image" class="custom-size">
-                    <img src="img/FC/L/3.png" alt="Image" class="custom-size">
-                    <img src="img/FC/L/4.png" alt="Image" class="custom-size">
-                </div>
-                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
-                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
-            </div>
-            <div class="multi-slider" data-aos="fade-down">
-                <div class="multi-slide">
-                    <img src="img/FC/SPro/red.jpg" alt="Image">
+                    <img src="img/FC/SPro/red.png" alt="Image">
                     <img src="img/FC/SPro/green.jpg" alt="Image">
                     <img src="img/FC/SPro/white.jpg" alt="Image">
                     <img src="img/FC/SPro/blue.jpg" alt="Image">
@@ -171,17 +148,87 @@
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/FC/SPro/1.png" alt="Image" class="custom-size">
-                    <img src="img/FC/SPro/2.png" alt="Image" class="custom-size">
-                    <img src="img/FC/SPro/3.png" alt="Image" class="custom-size">
-                    <img src="img/FC/SPro/4.png" alt="Image" class="custom-size">
+                    <img src="img/FC/SPro/1.png" alt="Image" >
+                    <img src="img/FC/SPro/2.png" alt="Image" >
+                    <img src="img/FC/SPro/3.png" alt="Image" >
+                    <img src="img/FC/SPro/4.png" alt="Image" >
+                </div>
+                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
+                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
+                
+            </div>
+            <div class="multi-slider" data-aos="fade-down">
+                <div class="multi-slide">
+                    <img src="img/FC/M/red.png" alt="Image">
+                    <img src="img/FC/M/green.jpg" alt="Image">
+                    <img src="img/FC/M/white.jpg" alt="Image">
+                    <img src="img/FC/M/blue.jpg" alt="Image">
+                    <img src="img/FC/M/black.jpg" alt="Image">
+                    <img src="img/FC/M/pink.jpg" alt="Image">
+                    <img src="img/FC/M/orange.jpg" alt="Image">
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide" >
-                    <img src="img/FC/LPro/red.jpg" alt="Image">
+                    <img src="img/FC/M/1.png" alt="Image" >
+                    <img src="img/FC/M/2.png" alt="Image" >
+                    <img src="img/FC/M/3.png" alt="Image" >
+                    <img src="img/FC/M/4.png" alt="Image" >
+                </div>
+                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
+                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <div class="multi-slider" data-aos="fade-down">
+                <div class="multi-slide" >
+                    <img src="img/FC/MPro/red.png" alt="Image">
+                    <img src="img/FC/MPro/green.jpg" alt="Image">
+                    <img src="img/FC/MPro/white.jpg" alt="Image">
+                    <img src="img/FC/MPro/blue.jpg" alt="Image">
+                    <img src="img/FC/MPro/black.jpg" alt="Image">
+                    <img src="img/FC/MPro/pink.jpg" alt="Image">
+                    <img src="img/FC/MPro/orange.jpg" alt="Image">
+                </div>
+                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
+                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <div class="multi-slider" data-aos="fade-down">
+                <div class="multi-slide">
+                    <img src="img/FC/MPro/1.png" alt="Image" >
+                    <img src="img/FC/MPro/2.png" alt="Image" >
+                    <img src="img/FC/MPro/3.png" alt="Image" >
+                    <img src="img/FC/MPro/4.png" alt="Image" >
+                </div>
+                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
+                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <div class="multi-slider" data-aos="fade-down">
+                <div class="multi-slide">
+                    <img src="img/FC/L/red.png" alt="Image">
+                    <img src="img/FC/L/green.jpg" alt="Image">
+                    <img src="img/FC/L/white.jpg" alt="Image">
+                    <img src="img/FC/L/blue.jpg" alt="Image">
+                    <img src="img/FC/L/black.jpg" alt="Image">
+                    <img src="img/FC/L/pink.jpg" alt="Image">
+                    <img src="img/FC/L/orange.jpg" alt="Image">
+                </div>
+                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
+                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <div class="multi-slider" data-aos="fade-down">
+                <div class="multi-slide">
+                    <img src="img/FC/L/1.png" alt="Image" >
+                    <img src="img/FC/L/2.png" alt="Image" >
+                    <img src="img/FC/L/3.png" alt="Image" >
+                    <img src="img/FC/L/4.png" alt="Image" >
+                </div>
+                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
+                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <div class="multi-slider" data-aos="fade-down">
+                <div class="multi-slide">
+                    <img src="img/FC/LPro/red.png" alt="Image">
                     <img src="img/FC/LPro/green.jpg" alt="Image">
                     <img src="img/FC/LPro/white.jpg" alt="Image">
                     <img src="img/FC/LPro/blue.jpg" alt="Image">
@@ -204,30 +251,7 @@
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/FC/M/red.jpg" alt="Image">
-                    <img src="img/FC/M/green.jpg" alt="Image">
-                    <img src="img/FC/M/white.jpg" alt="Image">
-                    <img src="img/FC/M/blue.jpg" alt="Image">
-                    <img src="img/FC/M/black.jpg" alt="Image">
-                    <img src="img/FC/M/pink.jpg" alt="Image">
-                    <img src="img/FC/M/orange.jpg" alt="Image">
-                </div>
-                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
-                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
-            </div>
-            <div class="multi-slider" data-aos="fade-down">
-                <div class="multi-slide">
-                    <img src="img/FC/M/1.png" alt="Image" class="custom-size">
-                    <img src="img/FC/M/2.png" alt="Image" class="custom-size">
-                    <img src="img/FC/M/3.png" alt="Image" class="custom-size">
-                    <img src="img/FC/M/4.png" alt="Image" class="custom-size">
-                </div>
-                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
-                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
-            </div>
-            <div class="multi-slider" data-aos="fade-down">
-                <div class="multi-slide">
-                    <img src="img/FC/XL/red.jpg" alt="Image">
+                    <img src="img/FC/XL/red.png" alt="Image">
                     <img src="img/FC/XL/green.jpg" alt="Image">
                     <img src="img/FC/XL/white.jpg" alt="Image">
                     <img src="img/FC/XL/blue.jpg" alt="Image">
@@ -240,53 +264,30 @@
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/FC/XL/1.png" alt="Image" class="custom-size">
-                    <img src="img/FC/XL/2.png" alt="Image" class="custom-size">
-                    <img src="img/FC/XL/3.png" alt="Image" class="custom-size">
-                    <img src="img/FC/XL/4.png" alt="Image" class="custom-size">
+                    <img src="img/FC/XL/1.png" alt="Image" >
+                    <img src="img/FC/XL/2.png" alt="Image" >
+                    <img src="img/FC/XL/3.png" alt="Image" >
+                    <img src="img/FC/XL/4.png" alt="Image" >
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/FC/MPro/red.jpg" alt="Image">
-                    <img src="img/FC/MPro/green.jpg" alt="Image">
-                    <img src="img/FC/MPro/white.jpg" alt="Image">
-                    <img src="img/FC/MPro/blue.jpg" alt="Image">
-                    <img src="img/FC/MPro/black.jpg" alt="Image">
-                    <img src="img/FC/MPro/pink.jpg" alt="Image">
-                    <img src="img/FC/MPro/orange.jpg" alt="Image">
+                    <img src="img/FC/FCD/1.png" alt="Image" >
+                    <img src="img/FC/FCD/2.png" alt="Image" >
+                    <img src="img/FC/FCD/3.png" alt="Image" >
+                    <img src="img/FC/FCD/4.png" alt="Image" >
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
             </div>
             <div class="multi-slider" data-aos="fade-down">
                 <div class="multi-slide">
-                    <img src="img/FC/MPro/1.png" alt="Image" class="custom-size">
-                    <img src="img/FC/MPro/2.png" alt="Image" class="custom-size">
-                    <img src="img/FC/MPro/3.png" alt="Image" class="custom-size">
-                    <img src="img/FC/MPro/4.png" alt="Image" class="custom-size">
-                </div>
-                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
-                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
-            </div>
-            <div class="multi-slider" data-aos="fade-down">
-                <div class="multi-slide">
-                    <img src="img/FC/FCD/1.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/FCD/2.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/FCD/3.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/FCD/4.jpg" alt="Image" class="custom-size">
-                </div>
-                <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
-                <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
-            </div>
-            <div class="multi-slider" data-aos="fade-down">
-                <div class="multi-slide">
-                    <img src="img/FC/FCD/5.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/FCD/6.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/FCD/7.jpg" alt="Image" class="custom-size">
-                    <img src="img/FC/FCD/8.jpg" alt="Image" class="custom-size">
+                    <img src="img/FC/FCD/5.png" alt="Image" >
+                    <img src="img/FC/FCD/6.png" alt="Image" >
+                    <img src="img/FC/FCD/7.png" alt="Image" >
+                    <img src="img/FC/FCD/8.png" alt="Image" >
                 </div>
                 <button class="multi-prev-btn"><i class="fas fa-chevron-left"></i></button>
                 <button class="multi-next-btn"><i class="fas fa-chevron-right"></i></button>
@@ -321,25 +322,25 @@
                     </div>
                 </div><br>
 
-                <div class="container2">
-                    <div class="image-container2">
-                        <img src="img/Chain.png" alt="Chain">
+                <div class="container2" data-aos="fade-up">
+                    <div class="image-container2" data-aos="fade-up">
+                        <img src="img/hum/Chain.png" alt="Chain" data-aos="fade-up">
                     </div>
-                    <div class="text-container2">
-                        <div class="text-box">ปรึกษาฟรีกับเจ้าของแบรนด์</div>
-                        <div class="text-box">
-                        <a href="tel:0926878777" class="phone-link">
+                    <div class="text-container2" data-aos="fade-up">
+                        <div class="text-box" data-aos="fade-up">ปรึกษาฟรีกับเจ้าของแบรนด์</div>
+                        <div class="text-box" data-aos="fade-up">
+                        <a href="tel:0926878777" class="phone-link" data-aos="fade-up">
                             <img src="img/logo/phone.png" alt="Phone Icon" class="phone-icon">
                             092-687-8777 คุณเชน
                         </a>
                     </div>
-                    <div class="text-box">
+                    <div class="text-box" data-aos="fade-up">
                         <a href="tel:0953424390" class="phone-link">
                             <img src="img/logo/phone.png" alt="Phone Icon" class="phone-icon">
                             095-342-4390 คุณนุ่ม
                         </a>
                     </div>
-                    <div class="qr-container">
+                    <div class="qr-container" data-aos="fade-up">
                         <img src="img/logo/QR.jpg" alt="QR Code">
                     </div>
                     </div>
@@ -423,23 +424,26 @@
                 </div>
             </div>
         </div><br><br>
-        <a class="strange-class">“ ไม่มีเงินลงทุน ก็เป็นเจ้าของกิจการได้! “</a><br><br>
-        <div class="container3">
+        <a class="strange-class" data-aos="fade-up">“ ไม่มีเงินลงทุน ก็เป็นเจ้าของกิจการได้! “</a><br><br>
+        <div class="container3" data-aos="fade-up">
             <img src="img/logo/logotaddao.png" alt="image 1">
-        <div class="x-sign">X</div>
-            <img src="img/logo/logosin.png" alt="image 2">
+        <div class="x-sign" data-aos="fade-up">X</div>
+            <img src="img/logo/logosin.png" alt="image 2" data-aos="fade-up">
         <div class = "text">กู้เงินลงทุนผ่านธนาคารออมสินได้แล้ววันนี้</div>
         </div><br><br>
-        <p class="sub-text red-rounded-box1" data-aos="fade-up">ประเภทสินเชื่อ</p><br><br>
+        <p class="sub-text red-rounded-box1" data-aos="fade-up">ประเภทสินเชื่อ</p><br>
         <center>
-        <div class="outer-container">
-            <div class="container4">
-                <img src="your-image-url.jpg" alt="Product Image">
-                <div class="text-area">
-                    <div class="header">
-                        <h2 style="margin: 0;">สินค้าเชื่อธุรกิจห้องแถว</h2>
-                        <div class="highlight">รู้ผลภายใน 30 วัน</div>
-                    </div>
+        <div class="outer-container" data-aos="fade-up">
+        <div class="container4" data-aos="fade-up">
+            <div class="header" data-aos="fade-up">
+                <h2 style="margin: 0;" data-aos="fade-up">สินค้าเชื่อธุรกิจห้องแถว</h2>
+                <div class="highlight" data-aos="fade-up">รู้ผลภายใน 30 วัน</div>
+            </div>
+            <div class="content" data-aos="fade-up">
+                <div class="img-container" data-aos="fade-up">
+                    <img src="img/hum/H1.png" alt="Product Image" data-aos="fade-up">
+                </div>
+                <div class="text-area" data-aos="fade-up">
                     <p>เหมาะสำหรับเจ้าของกิจการ/ผู้ที่มีธุรกิจอยู่แล้ว</p>
                     <p>วงเงินกู้ไม่เกิน 300,000 บาท ไม่ต้องใช้หลักทรัพย์</p>
                     <p>วงเงินกู้ 300,000 บาทขึ้นไป ต้องมีหลักทรัพย์</p>
@@ -447,26 +451,96 @@
                     <p>ผ่อนชำระได้สูงสุด 120 งวด (10ปี)</p>
                 </div>
             </div>
-        </div><br><br>
-        <div class="outer-container">
-            <div class="container4">
-                <img src="your-image-url.jpg" alt="Product Image">
-                <div class="text-area">
-                    <div class="header">
-                        <h2 style="margin: 0;">สินค้าเชื่อธนาคารประชาชน</h2>
-                        <div class="highlight">รู้ผลภายใน 15 วัน</div>
+        </div>
+        <div class="outer-container" data-aos="fade-up">
+            <div class="container4" data-aos="fade-up">
+                <div class="header" data-aos="fade-up">
+                    <h2 style="margin: 0;" data-aos="fade-up">สินค้าเชื่อธนาคารประชาชน</h2>
+                    <div class="highlight" data-aos="fade-up">รู้ผลภายใน 15 วัน</div>
+                </div>
+                <div class="content" data-aos="fade-up">
+                    <div class="img-container" data-aos="fade-up">
+                        <img src="img/hum/H2.png" alt="Product Image" data-aos="fade-up">
                     </div>
-                    <p>เหมาะสำหรับพนักงานประจำ</p>
-                    <p>วงเงินกู้ไม่เกิน 200,000 บาท</p>
-                    <p>ใช้บุคคลหรือหลักทรัพย์ในการค้ำประกัน</p>
-                    <p>ดอกเบี้ย เริ่มต้น 0.5% ต่อเดือน (คงที่)</p>
-                    <p>ผ่อนชำระได้สูงสุด 96 งวด (8ปี)</p>
+                    <div class="text-area" data-aos="fade-up">
+                        <p>เหมาะสำหรับพนักงานประจำ</p>
+                        <p>วงเงินกู้ไม่เกิน 200,000 บาท</p>
+                        <p>ใช้บุคคลหรือหลักทรัพย์ในการค้ำประกัน</p>
+                        <p>ดอกเบี้ย เริ่มต้น 0.5% ต่อเดือน (คงที่)</p>
+                        <p>ผ่อนชำระได้สูงสุด 96 งวด (8ปี)</p>
+                    </div>
+                </div>
+
+                <!-- ตารางการผ่อนชำระ -->
+                <div class="table-container" data-aos="fade-up">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>วงเงินกู้ (บาท)</th>
+                                <th>ผ่อน 3 ปี (36งวด)</th>
+                                <th>ผ่อน 5 ปี (60งวด)</th>
+                                <th>ผ่อน 8 ปี (96งวด)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="dark-gray">
+                                <td>50,000</td>
+                                <td>1,889</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr class="light-gray">
+                                <td>100,000</td>
+                                <td>3,778</td>
+                                <td>2,667</td>
+                                <td>-</td>
+                            </tr>
+                            <tr class="dark-gray">
+                                <td>200,000</td>
+                                <td>7,556</td>
+                                <td>5,334</td>
+                                <td>4,084</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="container4" data-aos="fade-up">
+            <div class="header1" data-aos="fade-up">
+                <h2 style="margin: 0;" data-aos="fade-up">สินค้าเชื่อสำหรับพนักงานราชการ</h2>
+                <div class="highlight" data-aos="fade-up">รู้ผลภายใน 30 วัน</div>
+            </div>
+            <div class="content" data-aos="fade-up">
+                <div class="img-container" data-aos="fade-up">
+                    <img src="img/hum/H3.png" alt="Product Image" data-aos="fade-up">
+                </div>
+                <div class="text-area" data-aos="fade-up">
+                    <p>เหมาะสำหรับข้าราชการและพนักงานราชการ</p>
+                    <p>วงเงินกู้ไม่เกิน 700,000 บาท ไม่ใช้หลักค้ำประกัน</p>
+                    <p>เงินเดือน 25,000 บาทกู้ได้สูงสุด 1,000,000 บาท</p>
+                    <p>ดอกเบี้ยเริ่มต้น 7% ต่อปี (ลดต้นลดดอก)</p>
+                    <p>ผ่อนชำระได้สูงสุด 180 งวด (15ปี)</p>
+                </div>
+            </div>
+        </div>
+        <div class="container4" data-aos="fade-up">
+            <div class="header1" data-aos="fade-up">
+                <div class="highlight2" data-aos="fade-up">เอกสารที่ใช้ยื่นกู้</div>
+            </div>
+            <div class="content" data-aos="fade-up">
+                <div class="text-area" data-aos="fade-up">
+                    <p>เอกสารพื้นฐานที่ทุกอาชีพต้องจัดเตรียม</p>
+                    <p>1.สำเนาบัตรประชาชน/บัตรข้าราชการ ของผู้กู้/ผู้ค้ำประกันและคู่สมรส</p>
+                    <p>2.สำเนาทะเบียนบ้าน ของผู้กู้/ผู้ค้ำประกันและคู่สมรส</p>
+                    <p>3.สำเนาใบเปลี่ยนชื่อ-นามสกุล ของผู้กู้/ผู้ค้ำประกันและผู้สมรส (ถ้ามี)</p>
+                    <p>4.สำเนาใบสำคัญการสมรส/ใบสำคัญหย่า/ใบมรณบัตรคู่สมรส (ถ้ามี)</p>
+                    <p>สำหรับเอกสารเพิ่มเติมอื่นๆ กรุณาสอบถามกับเจ้าหน้าที่ เนื่องจากในแต่ละ</p>
+                    <p>ประเภทสินเชื่อใช้เอกสารในการยื่นกู้ที่แตกต่างกัน</p>
                 </div>
             </div>
         </div>
         </center>
-
-
         <div class="youtube-container">
             <h2 class="youtube-heading" data-aos="fade-up">รีวิวความสำเร็จของทัดดาว</h2><br><br>
             <div class="youtube-row">
